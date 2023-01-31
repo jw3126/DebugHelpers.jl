@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = DebugHelpers","category":"page"},{"location":"#DebugHelpers","page":"Home","title":"DebugHelpers","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for DebugHelpers.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [DebugHelpers]","category":"page"},{"location":"#DebugHelpers.@into_scope-Tuple{Any}","page":"Home","title":"DebugHelpers.@into_scope","text":"@into_scope(d::AbstractDict{Symbol})\n\nTurns each key,val pair in d into a variable assignment.\n\n\n\n\n\n","category":"macro"}]
+}
